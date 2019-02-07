@@ -1,7 +1,6 @@
 {
   "name": "ssb-pub-wizard",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +18,15 @@
     "ssb-config": "^2.3.4",
     "ssb-friends": "^3.1.5",
     "ssb-markdown": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockparty-ssb/ssb-pub-wizard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blockparty-ssb/ssb-pub-wizard/issues"
+  },
+  "homepage": "https://github.com/blockparty-ssb/ssb-pub-wizard#readme",
+  "description": ""
 }
