@@ -1,3 +1,5 @@
+# DEPRECATED | ARCHIVED
+
 # ssb-pub-wizard
 
 Easily set up a Secure Scuttlebutt pub _for altnet with custom network ID/ caps.shs key on Digital Ocean. Copy your API token, choose server size and region, and let the installer do the rest for you!
